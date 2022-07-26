@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A-1 Pictures</title>
+
+</head>
+
+<body style="background-color:#E8F9FD ">
+    <header align="center" width="device-width"
+        style="background-color: #79DAE8; padding-bottom: 10px; padding-top: 17px;border-top-width: 1px;">
+        <img style="width:15%; padding-top: 10px; padding-bottom: 10px;"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/A-1_Pictures_Logo.svg/195px-A-1_Pictures_Logo.svg.png"
+            alt="A-1_Pictures_Logo">
+        <br><br>
+    </header>
+
+    <div style="background-color: #79DAE8;padding-bottom: 33px;padding-top: 20px;">
+        <a href="https://myanimelist.net/anime/producer/56/A-1_Pictures" target="_blank">
+            <img style="width:10%; padding-top: 10px; padding-bottom: 7px; padding-left: 5%;"
+                src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e5314c05-8591-4e58-b014-9d103866bef4/da2lg7c-f88b45d1-f397-4f3e-aea6-fb327ed99aad.png/v1/fill/w_322,h_75,q_80,strp/myanimelist_logo_by_gisellenya_da2lg7c-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzUiLCJwYXRoIjoiXC9mXC9lNTMxNGMwNS04NTkxLTRlNTgtYjAxNC05ZDEwMzg2NmJlZjRcL2RhMmxnN2MtZjg4YjQ1ZDEtZjM5Ny00ZjNlLWFlYTYtZmIzMjdlZDk5YWFkLnBuZyIsIndpZHRoIjoiPD0zMjIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.kOdoQCrH3STqAA9OFZp0TmcPH_cjIOXWQO1-T6-2taQ"
+                alt="MyAnimelist Logo">
+        </a>
+        <a href="https://a1p.jp/works/" target="_blank">
+            <img style="width:10%; padding-top: 5px; padding-bottom: 5px; padding-left: 10%;"
+                src="https://www.lovenatureskitchen.co.uk/wp-content/uploads/2015/02/More-about-us-brown.png"
+                alt="More About Us">
+        </a>
+        <a target="_blank"
+            href="https://en.wikipedia.org/wiki/Solo_Leveling#:~:text=An%20anime%20television%20series%20adaptation%20by%20A%2D1%20Pictures%20is%20set%20to%20premiere%20in%202023.%5B4">
+            <img style="width:10%; height: 50px; padding-left: 10%;"
+                src="https://d1ed0vta5mrb00.cloudfront.net/comics/187/thumbnails/logo_195e0dbd-a0dc-42af-aa61-8f5999ce14cb.png"
+                alt="solo leveling">
+        </a>
+        <input style="text-align:center; margin-left: 15%; margin-bottom: 7px;" type="text" id="Search"
+            placeholder="Search..." autocomplete="on">
+        <br><br>
+    </div>
+
+
+    <div style="margin-top: 100px; margin-bottom: 100px;">
+        <table>
+            <tr>
+                <td>
+                    <iframe width="560" height="316" src="https://www.youtube.com/embed/Ls3Eorw10uU?autoplay=1&mute=1"
+                        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
+                        picture-in-picture" allowfullscreen autoplay></iframe>
+                </td>
+                <td style="font-family: 'monospace'; font-size: 18px; color: #12aec6 ;font-weight: bold;">
+                    <pre>
+                        A-1 Pictures (A-1 Pictures Inc.) is a Japanese animation studio in Suginami, Tokyo.
+                        Founded by former Sunrise producer Mikihiro Iwata in 2005, it was established as a subsidary of
+                        Aniplex.
+                    </pre>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <footer style="background-color: #2155CD; ">
+        <table>
+            <tr>
+                <td>
+                    <form style="text-align: center; margin-top: 10%;" action="page2.html" method="get">
+                        <fieldset>
+                            <legend>Details for Resume</legend>
+                            <label for="name">Name:</label>
+                            <input type="text" name="name" id="name"> <br><br>
+                            <label for="email">Email:</label>
+                            <input type="text" name="email" id="email"> <br><br>
+                            <input type="submit" value:'Submit'>
+                        </fieldset>
+                    </form>
+                </td>
+                <td style="text-align:center; padding-left: 30%;">
+
+                    <pre style="color: whitesmoke; font-size: 23px;">
+
+                        <b>Contact Us!</b>       
+                    4,
+                    杉並区, 
+                    東京都 
+                    166-0015
+                     </pre>
+                </td>
+                <td style="padding-left:  50%;">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4013651.7018328863!2d78.28833754405834!3d10.766682935129248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f32e050675d9%3A0x578e379e2067002d!2zQS0xIFBpY3R1cmVzIOesrOS4ieWItuS9nOmDqA!5e0!3m2!1sen!2sin!4v1658850668470!5m2!1sen!2sin"
+                        width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </td>
+            </tr>
+        </table>
+    </footer>
+
+
+
+</body>
+
+</html>
